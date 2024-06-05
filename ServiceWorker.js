@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-UFPA_Adventure-0.1.0";
 const contentToCache = [
-    "Build/teste4.loader.js",
-    "Build/teste4.framework.js",
-    "Build/teste4.data",
-    "Build/teste4.wasm",
+    "Build/UPFA mudanca.loader.js",
+    "Build/UPFA mudanca.framework.js",
+    "Build/UPFA mudanca.data",
+    "Build/UPFA mudanca.wasm",
     "TemplateData/style.css"
 
 ];
